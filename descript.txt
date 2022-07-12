@@ -2,7 +2,6 @@ Charset,UTF-8
 //menu表示名
 name,kohakuTarminal
 type,balloon
-directory,ukagakaBalloon_kohakuTarminal
 
 craftman,ambergon
 craftmanurl,https://ambergonslibrary.com/ukagaka/
